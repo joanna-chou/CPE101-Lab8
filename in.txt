@@ -1,0 +1,5 @@
+This is an example for file I/O.
+You can work with file like list of strings.
+Every line can be accessed using for loop or built-in functions.
+getline and getlines can red one line or every line in the file.
+write function works like print function.
